@@ -3,5 +3,7 @@ Raspberry Pi - Using C++ to control a group of LEDs
 
 In this example I have programmed SPI Interface for LED lights.
 
-![image](https://user-images.githubusercontent.com/67391846/147606296-51495b8c-23fe-4585-ab63-dad818b79e91.png)
+![image](https://user-images.githubusercontent.com/67391846/147606397-be153af4-6590-435c-abfa-08a5fd207abf.png)
+
+
 
